@@ -7,8 +7,6 @@
 ## La robótica como excusa
 
 Todo lo relacionado con la robótica engancha,  eso es indudable
-(pero puedes volver a leer todo pensando en la elaboración de una gran paella para invitar a los padres, casi todos los puntos vuelven a ser aplicables…)
-
 Con la excusa de la robótica podemos enseñar y aprender todo tipo de contenidos.
 
 En abstracto:
