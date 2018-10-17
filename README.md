@@ -110,3 +110,7 @@ A finalizar el curso elaborarán un proyecto práctico en sus propias clases
 1. Proyectos sencillos (varios componentes) y programas simples
 1. [Proyectos](./Proyectos.md) más complejos (electrónica y programación) e [ideas](./Ideas.md)
 1. [Alternativas](./Alternativas.md) al kit propuesto
+
+## Recursos
+
+[Guia Bitbloq](http://diwo.bq.com/course/introduccion-a-bitbloq-con-el-kit-zum/)
