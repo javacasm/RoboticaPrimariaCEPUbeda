@@ -16,7 +16,7 @@
 
 hablar sobre las distintas alternativas y dedicarles unas horas a cada uno para que sepan las alternativas que tienen y las posibilidades. Yo tengo uno de casi todos y podría llevarlos a la clase para que los vieran y probaran. Serían unas 12-15 horas
 * Robot ensamblados tipo Escornabot
-* Makey-Makey
+* [Makey-Makey](./MakeyMakey.md)
 * Otras alternativas
   * Lego
   * Mecano

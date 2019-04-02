@@ -95,7 +95,8 @@ Utilización de un kit básico de arduino (similar al usado de bq) para crear un
 ## Índice
 
 1. [Motivación](./Motivacion.md)
-1. Presentación de los componentes y primeros ejemplos de programación (montajes simples con 1-2 componentes)
+1. [Aprender a Programar](./Programacion.md)
+1. Presentación de los componentes y primeros ejemplos de programación (montajes simples con 1-2 componentes) [Bitbloq](./BitBloq.md)
 1. Proyectos sencillos (varios componentes) y programas simples
 1. [Proyectos](./Proyectos.md) más complejos (electrónica y programación) e [ideas](./Ideas.md)
 1. [Alternativas](./Alternativas.md) al kit propuesto
