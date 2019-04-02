@@ -1,16 +1,13 @@
-# Robotica Antequera 2018
+# Robotica para Educación Primaria
 
-Curso de introducción a la robótica (secundaria)
+## CEP Ubeda
 
-CEP de Antequera
+## [https://github.com/javacasm/RoboticaPrimariaCEPUbeda](https://github.com/javacasm/RoboticaPrimariaCEPUbeda)
 
-## [Programa](./README.md)
 
 ### José Antonio Vacas @javacasm
 
-![cc](./images/CCbySQ_88x31.png)
-
-## [https://github.com/javacasm/RoboticaAntequera18](https://github.com/javacasm/RoboticaAntequera18)
+![CCbySA](./images/CCbySQ_88x31.png)
 
 # Programando con [Bitbloq](http://bitbloq.bq.com)
 
