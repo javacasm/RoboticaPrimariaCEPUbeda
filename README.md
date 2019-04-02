@@ -6,7 +6,7 @@
 
 ![CCbySA](./images/CCbySQ_88x31.png)
 
-
+2,3,9,11 y 25 de Abril 2019
 
 # Motivación
 
@@ -88,20 +88,6 @@ Utilización de un kit básico de arduino (similar al usado de bq) para crear un
 
   * Robots que al moverse hacen matemáticas: matemáticas para hacer que un robot se mueva
 
-
-
-## Organización
-
-* 20 asistentes: 5 grupos de 4
-(misma distribución que luego al trabajar en las clases)
-* 5 Kits Zum Bq
-* 4 sesiones de formación en Noviembre: 6, 13, 20, 27
-* Sesiones prácticas en 3 de sus clases en Enero
-    14, 15
-    21, 22
-    28, 29
-
-A finalizar el curso elaborarán un proyecto práctico en sus propias clases
 
 ## Índice
 

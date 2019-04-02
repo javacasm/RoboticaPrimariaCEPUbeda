@@ -1,20 +1,24 @@
-# Alternativas
+# Robotica para Edución Primaria
 
-hablar sobre las distintas alternativas y dedicarles unas horas a cada uno para que sepan las alternativas que tienen y las posibilidades. Yo tengo uno de casi todos y podría llevarlos a la clase para que los vieran y probaran. Serían unas 12-15 horas
-Robot ensamblados tipo Escornabot donde veríamos su montaje incluso su uso en infantil
-Makey-Makey
-Otras alternativas
- Lego
- Mecano
- Edison
-
-
-## Desarrollo
-
+## CEP Ubeda
 
 ### José Antonio Vacas @javacasm
 
 ![CCbySA](./images/CCbySQ_88x31.png)
+
+2,3,9,11 y 25 de Abril 2019
+
+
+# Alternativas
+
+hablar sobre las distintas alternativas y dedicarles unas horas a cada uno para que sepan las alternativas que tienen y las posibilidades. Yo tengo uno de casi todos y podría llevarlos a la clase para que los vieran y probaran. Serían unas 12-15 horas
+* Robot ensamblados tipo Escornabot
+* Makey-Makey
+* Otras alternativas
+  * Lego
+  * Mecano
+  * Edison
+
 
 # Equipos
 

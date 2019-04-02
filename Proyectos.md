@@ -1,13 +1,13 @@
-# Proyectos
+# Robotica para Edución Primaria
 
-
-# Curso Superior de Innovación Pedagógica y Metodologías para el Aprendizaje.
-
-## Módulo de Programación y Robótica.
+## CEP Ubeda
 
 ### José Antonio Vacas @javacasm
 
 ![CCbySA](./images/CCbySQ_88x31.png)
+
+2,3,9,11 y 25 de Abril 2019
+
 
 # Proyectos
 
