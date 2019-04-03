@@ -1,4 +1,4 @@
-# Robotica para Educación Primaria
+# COMO INTEGRAR LA ROBÓTICA EN EDUCACIÓN PRIMARIA. ([192320GE002](http://www.juntadeandalucia.es/educacion/portals/web/cep-ubeda/novedades/-/contenidos/detalle/abierto-plazo-de-solicitudes-para-curso-con-seguimiento-como-integrar-la-robotica-en-educacion-primaria))
 
 ## CEP Ubeda
 
@@ -9,7 +9,7 @@
 
 ![CCbySA](./images/CCbySQ_88x31.png)
 
-2,3,9,11 y 25 de Abril 2019
+2,3,9,25 y 30 de Abril 2019
 
 
 # Proyectos
