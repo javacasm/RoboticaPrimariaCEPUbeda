@@ -1,11 +1,15 @@
-# Curso Superior de Innovación Pedagógica y Metodologías para el Aprendizaje.
+# COMO INTEGRAR LA ROBÓTICA EN EDUCACIÓN PRIMARIA. ([192320GE002](http://www.juntadeandalucia.es/educacion/portals/web/cep-ubeda/novedades/-/contenidos/detalle/abierto-plazo-de-solicitudes-para-curso-con-seguimiento-como-integrar-la-robotica-en-educacion-primaria))
 
-## Módulo de Programación y Robótica.
+## CEP Ubeda
+
+## [https://github.com/javacasm/RoboticaPrimariaCEPUbeda](https://github.com/javacasm/RoboticaPrimariaCEPUbeda)
+
 
 ### José Antonio Vacas @javacasm
 
 ![CCbySA](./images/CCbySQ_88x31.png)
 
+2,3,9,25 y 30 de Abril 2019
 
 # [Makey Makey](http://www.makeymakey.com/)
 
