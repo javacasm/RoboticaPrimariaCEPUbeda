@@ -20,10 +20,20 @@ hablar sobre las distintas alternativas y dedicarles unas horas a cada uno para 
 * Otras alternativas
   * Lego
   * Mecano
-  * Edison
+
 
 
 # Equipos
+
+
+## [micro:bit](https://microbit.org/es/)
+
+![microbit](https://www.kitronik.co.uk/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/5/6/5613_additional_bbc_microbit_board_only_back.jpg)
+
+
+## [Edison](https://meetedison.com)
+
+![edison](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3Rnpqx5cTwEvxZcLtLdWf1C6yRyztt7nZ2wnCaaLUMYxXQ509Wp8&usqp=CAc)
 
 ## [BeeBot](https://ro-botica.com/es/tienda/Bee-Bot/)
 
@@ -31,7 +41,7 @@ hablar sobre las distintas alternativas y dedicarles unas horas a cada uno para 
 
 ![beebot](http://3.bp.blogspot.com/-C5RIFcXiwTk/VS7dCSrbcqI/AAAAAAAAFWM/T-QXEgwvjMg/s1600/BOTONES%2BBEE%2BBOT.jpg)
 
-Alternativa open: [Escornabot](./escornabot.md)
+Alternativa libre: [Escornabot](https://pablorubma.cc/escornabot/)
 
 ![Escornabot](https://bricolabs.cc/wiki/_media/old/archivo/escornabot-brivoi.jpg)
 
@@ -65,6 +75,8 @@ Es un mecano con corazón de Arduino.
 Programable con bloques
 
 ![scratch](https://cdn.instructables.com/FUE/YCPN/I7VQKNL0/FUEYCPNI7VQKNL0.MEDIUM.jpg)
+
+[mClon versión libre](http://mclon.org)
 
 [Recursos](https://www.makeblock.es/soporte/robot-mbot/)
 
