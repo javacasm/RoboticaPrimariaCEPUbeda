@@ -120,7 +120,7 @@ Hay que añadir más botones para más plantas
 
 [Programación con ArduinoBlocks](http://www.arduinoblocks.com/web/project/115569)
 
-![PRogramacion](./images/Programación Ascensor.png)
+![PRogramacion](./images/ProgramacionAscensor.png)
 
 (Hecho con [Fritzing](http://fritzing.org/home/))
 
