@@ -94,3 +94,40 @@ Ejemplos:
 * [Reflejos](http://diwo.bq.com/bq-invento-reflejos/)
 * [Casa embrujada](http://diwo.bq.com/bq-invento-especial-halloween/)
 * [Memoria](http://diwo.bq.com/bq-invento-memoria/)
+
+## Parking
+
+[Proyecto bitbloq](https://bitbloq.bq.com/#/project/5cacc2181065d90018bb4077)
+
+Hardware:
+* 2 servos para las barreras de entrada y salida
+* boton para abrir la barrera de la entrada
+* sensor infrarrojo para abrir la barrera de la salida
+
+![hardware](./images/Parking-Hardware.png)
+
+Software
+
+![globales](./images/Parking-software-globales.png)
+![entrada](./images/Parking-software-entrada.png)
+![salida](./images/Parking-software-salida.png)
+
+## Ascensor
+
+![esquema](./images/Ascensor_bb.png)
+
+Hay que añadir más botones para más plantas
+
+[Programación con ArduinoBlocks](http://www.arduinoblocks.com/web/project/115569)
+
+![PRogramacion](./images/Programación Ascensor.png)
+
+(Hecho con [Fritzing](http://fritzing.org/home/))
+
+# Referencias/Recursos
+
+[Juegos Robotica](https://juegosrobotica.es)
+
+[Programo Ergo Sum](https://www.programoergosum.com/cursos-online)
+
+[Programacion y Robotica](http://www.programacionyrobotica.com/practicas-arduino/)
